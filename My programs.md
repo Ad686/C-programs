@@ -202,6 +202,7 @@ DO NOT TAKE TENSION
 DO NOT TAKE TENSION
 DO NOT TAKE TENSION
 DO NOT TAKE TENSION
+
 ``
 ## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#8to-show-areadiametercircumference-of-circle)9:To show area,diameter,circumference of circle
 ```
