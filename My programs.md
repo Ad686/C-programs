@@ -100,7 +100,8 @@ Enter five numbers:1 2 3 4 5
 The sum is:15
 The average is:3
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#5to-find-number-is-even-or-odd)5:To find number is even or odd
+
+find-number-is-even-or-odd)5To find number is even or odd
 ```
      #include<stdio.h>
 int main()
@@ -124,7 +125,7 @@ _**OR**_
 Enter a number:7
 The number is odd
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#6to-show-the-size-of-intfloatchardoublelongshort)6:To show the size of int,float,char,double,long,short
+C-program-notes/blob/master/c%20program.c.md#6to-show-the-size-of-intfloatchardoublelongshort)6:To show the size of int,float,char,double,long,short
 ```
  // size of int, float, char, double, long, short
 #include<stdio.h>
@@ -226,7 +227,7 @@ diameter of circle is:12.000000
 circumference of circle:37.680000
 Area of circle:113.040001
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#9to-find-area-and-volume-of-rectangle)9:To find area and volume of rectangle
+C-program-notes/blob/master/c%20program.c.md#9to-find-area-and-volume-of-rectangle)9:To find area and volume of rectangle
 ```
 //find area and volume of rectangle
 #include<stdio.h>
@@ -255,7 +256,7 @@ Enter height of rectangle:4
 The area of rectangle is:12
 The volume is :48
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#10to-represent-a-table-of-user-input)10:To represent a table of user input
+C-program-notes/blob/master/c%20program.c.md#10to-represent-a-table-of-user-input)10:To represent a table of user input
 ```
  // To represent a table of user input  number
 #include<stdio.h>
@@ -344,7 +345,7 @@ table of:5
 5 x 29 = 145
 5 x 30 = 150
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#13to-show-even-table)13:To show even table
+C-program-notes/blob/master/c%20program.c.md#13to-show-even-table)13:To show even table
 ```
 //To show only even table
 #include<stdio.h>
@@ -388,7 +389,7 @@ tabel of:16
 6 X 19=114
 6 X 20=120
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#14-to-show-result-of-operands)14: To show result of operands
+/C-program-notes/blob/master/c%20program.c.md#14-to-show-result-of-operands)14: To show result of operands
 ```
 //To show results using operands(+,-,*,%,/)
 #include<stdio.h>
@@ -424,7 +425,7 @@ enter operator[+ - % / *]: /
 enter second number:9
 The result is:10.00
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#15to-call-a-patterns-of-face-and-calculator)15:To call a patterns of face and calculator
+C-program-notes/blob/master/c%20program.c.md#15to-call-a-patterns-of-face-and-calculator)15:To call a patterns of face and calculator
 ```
 // call a pattern of face or calculator
              #include<stdio.h>
@@ -509,7 +510,7 @@ ___________________
 |        |        |
 |________|________|
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#16to-convert-fahrehnite-to-celcius-and-kelvin)16:To convert fahrehnite to celcius and kelvin
+#C-program-notes/blob/master/c%20program.c.md#16to-convert-fahrehnite-to-celcius-and-kelvin)16:To convert fahrehnite to celcius and kelvin
 ```
   // To covert  fahrenheit to celsius and kelvin
                  #include<stdio.h>
@@ -530,7 +531,7 @@ Enter a fahrenheit value:450
 celsius value is:232.22
 kelvin value is:505.37
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#17to-show-stars-pattern)17:To show stars pattern
+#C-program-notes/blob/master/c%20program.c.md#17to-show-stars-pattern)17:To show stars pattern
 ```
  // TO show stars using loop 
 #include<stdio.h>
@@ -562,7 +563,7 @@ Enter the no. to show pattern:8
 * * 
 *
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#18to-show-factorial-result)18:To show factorial result
+#C-program-notes/blob/master/c%20program.c.md#18to-show-factorial-result)18:To show factorial result
 ```
 //To show factorial of user input
 #include<stdio.h>
@@ -618,7 +619,7 @@ Enter the value upto pattern is shown:8
 * * * * * * * 
 * * * * * * * * 
 ```
-## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#20matrix-multipication)20:Matrix multipication
+#C-program-notes/blob/master/c%20program.c.md#20matrix-multipication)20:Matrix multipication
 ```
 #include<stdio.h>
 int main()
