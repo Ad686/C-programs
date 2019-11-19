@@ -187,23 +187,22 @@ Volume of square:64
  printf("Enter the number upto punishment is shown:");
  scanf("%d",&a);
   for(i=1;i<=a;i++)
-puts("WORK HARD AND ACHIEVE SUCCESS ");
+puts("DO NOT TAKE TENSION");
 return 0;
 }
 ```
 **OUTPUT**:
 ```
 Enter the number upto punishment is shown:8
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK 
-```
+DO NOT TAKE TENSION
+DO NOT TAKE TENSION
+DO NOT TAKE TENSION
+DO NOT TAKE TENSION
+DO NOT TAKE TENSION
+DO NOT TAKE TENSION
+DO NOT TAKE TENSION
+DO NOT TAKE TENSION
+``
 ## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#8to-show-areadiametercircumference-of-circle)9:To show area,diameter,circumference of circle
 ```
    #include<stdio.h>
