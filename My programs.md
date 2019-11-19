@@ -43,18 +43,19 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 **OUTPUT:**
 ```
 Enter your information:
-Name = Jony
+Name = sham
 
-Roll no=100012
+Roll no=21
 
-Age = 25
+Age = 19
 
-Phone no.= 9922115566
 
-The name is Jony
-Your roll no is 100012
-My phone number is 9922115566
- My age is 25
+Phone no.= 0987654332
+
+The name is sham
+Your roll no is 21
+My phone number is 0987654332
+ My age is 19
 ```
 ## 3:To find sum of two numbers
 ```
@@ -73,9 +74,9 @@ int main()
 ```
 **OUTPUT**:
 ```
-Enter two numbers to get sum:45 55
+Enter two numbers to get sum:10 10
  
-The result is :45 + 55= 100
+The result is :10 +10 = 20
 ```
 ## 4:Sum and average of numbers
 ```
@@ -115,7 +116,7 @@ else
 ```
 **OUTPUT**:
 ```
-Enter a number:4
+Enter a number:6
 The  number is even
 ```
 _**OR**_
@@ -170,10 +171,10 @@ void square()
 ```
 **OUTPUT**:
 ```
-Enter the side of square:4
+Enter the side of square:2
 
-Perimeter of square:16
-Area of square:16
+Perimeter of square:8
+Area of square:8
 Volume of square:64
 ```
 ## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#7to-show-puts-value-upto-n-number-using-loop)8:To show puts value upto n number using loop
@@ -192,7 +193,7 @@ return 0;
 ```
 **OUTPUT**:
 ```
-Enter the number upto punishment is shown:10
+Enter the number upto punishment is shown:8
 WORK HARD AND ACHIEVE SUCCESS 
 WORK HARD AND ACHIEVE SUCCESS 
 WORK HARD AND ACHIEVE SUCCESS 
@@ -201,8 +202,7 @@ WORK HARD AND ACHIEVE SUCCESS
 WORK HARD AND ACHIEVE SUCCESS 
 WORK HARD AND ACHIEVE SUCCESS 
 WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS
+WORK 
 ```
 ## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#8to-show-areadiametercircumference-of-circle)9:To show area,diameter,circumference of circle
 ```
@@ -274,17 +274,17 @@ return 0;
 **OUTPUT**:
 ```
 
-15 x 0 = 0
-15 x 1 = 15
-15 x 2 = 30
-15 x 3 = 45
-15 x 4 = 60
-15 x 5 = 75
-15 x 6 = 90
-15 x 7 = 105
-15 x 8 = 120
-15 x 9 = 135
-15 x 10 = 150
+11 x 0 = 0
+11 x 1 = 11
+11 x 2 = 22
+11 x 3 = 33
+11 x 4 = 44
+11 x 5 = 55
+11 x 6 = 66
+11 x 7 = 77
+11 x 8 = 88
+11 x 9 = 99
+11 x 10 = 110
 
 ```
 
@@ -366,27 +366,27 @@ return 0;}
 **OUTPUT**:
 ```
 tabel of:16
-16 X 0=0
-16 X 1=16
-16 X 2=32
-16 X 3=48
-16 X 4=64
-16 X 5=80
-16 X 6=96
-16 X 7=112
-16 X 8=128
-16 X 9=144
-16 X 10=160
-16 X 11=176
-16 X 12=192
-16 X 13=208
-16 X 14=224
-16 X 15=240
-16 X 16=256
-16 X 17=272
-16 X 18=288
-16 X 19=304
-16 X 20=320
+6 X 0=0
+6 X 1=6
+6 X 2=12
+6 X 3=18
+6 X 4=24
+6 X 5=30
+6 X 6=36
+6 X 7=42
+6 X 8=48
+6 X 9=54
+6 X 10=60
+6 X 11=66
+6 X 12=72
+6 X 13=78
+6 X 14=84
+6 X 15=90
+6 X 16=96
+6 X 17=102
+6 X 18=108
+6 X 19=114
+6 X 20=120
 ```
 ## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#14-to-show-result-of-operands)14: To show result of operands
 ```
@@ -419,10 +419,10 @@ return 0;
 ```
 **OUTPUT**:
 ```
-enter first  number:20
-enter operator[+ - % / *]: *
-enter second number:10
-The result is:200.00
+enter first  number:90
+enter operator[+ - % / *]: /
+enter second number:9
+The result is:10.00
 ```
 ## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#15to-call-a-patterns-of-face-and-calculator)15:To call a patterns of face and calculator
 ```
