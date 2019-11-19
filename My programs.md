@@ -43,18 +43,18 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 **OUTPUT:**
 ```
 Enter your information:
-Name = Jony
+Name = sham
 
-Roll no=100012
+Roll no=19
 
-Age = 25
+Age = 17
 
-Phone no.= 9922115566
+Phone no.= 9876543210
 
-The name is Jony
-Your roll no is 100012
-My phone number is 9922115566
- My age is 25
+The name is sham
+Your roll no is 19
+My phone number is 9876543210
+ My age is 17
 ```
 ## 3:To find sum of two numbers
 ```
@@ -73,9 +73,9 @@ int main()
 ```
 **OUTPUT**:
 ```
-Enter two numbers to get sum:45 55
+Enter two numbers to get sum:10 10
  
-The result is :45 + 55= 100
+The result is :10 + 10= 20
 ```
 ## 4:Sum and average of numbers
 ```
@@ -115,7 +115,7 @@ else
 ```
 **OUTPUT**:
 ```
-Enter a number:4
+Enter a number:6
 The  number is even
 ```
 _**OR**_
@@ -170,11 +170,11 @@ void square()
 ```
 **OUTPUT**:
 ```
-Enter the side of square:4
+Enter the side of square:8
 
-Perimeter of square:16
-Area of square:16
-Volume of square:64
+Perimeter of square:128
+Area of square:128
+
 ```
 ## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#7to-show-puts-value-upto-n-number-using-loop)8:To show puts value upto n number using loop
 ```
@@ -186,23 +186,23 @@ Volume of square:64
  printf("Enter the number upto punishment is shown:");
  scanf("%d",&a);
   for(i=1;i<=a;i++)
-puts("WORK HARD AND ACHIEVE SUCCESS ");
+puts("DO NOT TAKE TENSION ");
 return 0;
 }
 ```
 **OUTPUT**:
 ```
-Enter the number upto punishment is shown:10
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS 
-WORK HARD AND ACHIEVE SUCCESS
+Enter the number upto punishment is shown:8
+DO NOT TAKE TENSION 
+DO NOT TAKE TENSION 
+DO NOT TAKE TENSION 
+DO NOT TAKE TENSION 
+DO NOT TAKE TENSION 
+DO NOT TAKE TENSION 
+DO NOT TAKE TENSION 
+DO NOT TAKE TENSION 
+ 
+
 ```
 ## [](https://github.com/Krishan00007/C-program-notes/blob/master/c%20program.c.md#8to-show-areadiametercircumference-of-circle)9:To show area,diameter,circumference of circle
 ```
